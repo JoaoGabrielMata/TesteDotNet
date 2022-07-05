@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj": {}
+    "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj": {
+    "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
         "projectName": "meuPrimeiroProjeto",
-        "projectPath": "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
+        "projectPath": "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\TesteDotNet\\meuPrimeiroProjeto\\obj\\",
+        "outputPath": "C:\\Users\\joaog\\Desktop\\Pastas\\Pasta dentro da Pasta\\Devsenvolvimento\\Pastas\\Linguagem de ProgramaçãoETE\\TesteDotNet\\meuPrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaog\\AppData\\Roaming\\NuGet\\NuGet.Config"
