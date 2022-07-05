@@ -1,0 +1,30 @@
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.exe
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.deps.json
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.runtimeconfig.json
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.dll
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.pdb
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.dll
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\refint\meuPrimeiroProjeto.dll
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.pdb
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\joaog\Desktop\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\ref\meuPrimeiroProjeto.dll
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.dll
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\refint\meuPrimeiroProjeto.dll
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.pdb
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.exe
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.deps.json
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.runtimeconfig.json
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.dll
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.pdb
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\joaog\Desktop\Pastas\Pasta dentro da Pasta\Devsenvolvimento\Pastas\Linguagem de ProgramaçãoETE\TesteDotNet\TesteDotNet\meuPrimeiroProjeto\obj\Debug\net6.0\ref\meuPrimeiroProjeto.dll
